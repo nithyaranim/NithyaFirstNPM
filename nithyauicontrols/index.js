@@ -1,6 +1,4 @@
-const GreetingComponent = (name) => {
-    return `Hello, ${name}!`;
-}
+import GreetingComponent from './src/components/greetings/greetings.component';
 
 const NithyaUiControls = {
     Greetings : GreetingComponent
